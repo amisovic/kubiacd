@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: kubia2
-        image: amisovic/kubia:20
+        image: amisovic/kubia:21
         ports:
         - containerPort: 8080
 ---
